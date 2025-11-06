@@ -1,9 +1,9 @@
-# 👋 Hello there
+# 👋 Hello there!
 
-I’m Raimon, a hybrid professional in **web development, digital marketing and project management**, with a background that combines **technical rigor, strategic vision and collaborative leadership**.
+I'm a hybrid professional in **project management, digital marketing and web development**, with over ten years of experience leading teams, planning strategies and developing digital solutions from start to finish.
 
-After more than a decade working in **communication, marketing and cultural management**, I’ve developed key skills: strategic planning, coordination of multidisciplinary teams, data-driven decision-making and effective communication between technical and creative areas. This experience has taught me to understand **projects from conception to execution, connecting people, processes and goals**.
+I combine the **technical rigor of a full-stack developer** (working with TypeScript, React, Node.js and Agile, TDD and CI/CD methodologies) with the **strategic and analytical vision of a marketing manager**, capable of connecting data, technology and business goals.
 
-In recent years, I’ve strengthened my technical profile as a **full-stack developer**, working with TypeScript and the MERN stack, applying testing, accessibility (a11y), CI/CD and Agile methodologies. This combination of experiences has allowed me to **bring together creativity, structure and technology** to create solid, results-oriented digital solutions.
+I've coordinated international projects, designed technical roadmaps, led multidisciplinary teams and driven efficiency and quality improvements. I'm passionate about bringing together **creativity, structure and technology** to generate real impact and build useful, accessible and well-crafted products.
 
-I’m passionate about building useful and sustainable products, optimizing processes and facilitating communication between technical and business teams. I identify with **environments where technology, creativity and strategy converge**, and where teamwork, quality and purpose drive the final outcome.
+In short: a versatile and **cross-functional profile** that integrates strategic vision, technical expertise and leadership ability, oriented toward results, innovation and continuous improvement.
