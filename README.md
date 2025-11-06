@@ -1,11 +1,9 @@
-## Hi, how are you! 👋
+# 👋 Hello there
 
-🙋‍♀️ I'm a <b>full-stack web developer</b>. Not the smartest or the fastest, but playing it safe: checking every step, applying improvements and refactoring. <b>I work with TypeScript, MERN stack, testing</b> (YOU ALWAYS HAVE TO TEST) <b>and best practices</b>. I write <b>behavior-and-accessibility driven code</b>, <b>object-oriented</b> and with <b>continuous integration and delivery</b>.
+I’m Raimon, a hybrid professional in **web development, digital marketing and project management**, with a background that combines **technical rigor, strategic vision and collaborative leadership**.
 
-🧰 Technologies and tools? Whatever it takes: Chalk, CLI, commitlint, CORS, <b>CSS</b>, Cypress, debug, dev tools, DOM, dotenv, ESLint, <b>Express</b>, Git, GitHub, Helmet, <b>HTML</b>, Husky, <b>JavaScript</b>, Jest, Lighthouse, lint-staged, <b>MongoDB</b>, Mongoose, Morgan, MSW, Netlify, <b>Node.js</b>, Postman, Prettier, <b>React</b>, <b>React Hooks</b>, <b>Redux Toolkit</b>, Render, SonarQube, SuperTest, Testing Library, <b>TypeScript</b>, Vite, Vitest, Wave…
+After more than a decade working in **communication, marketing and cultural management**, I’ve developed key skills: strategic planning, coordination of multidisciplinary teams, data-driven decision-making and effective communication between technical and creative areas. This experience has taught me to understand **projects from conception to execution, connecting people, processes and goals**.
 
-🤔 I have abstraction and analytical skills. I am <b>collaborative, communicative, creative and innovative</b>. I have good emotional management and leadership skills. I am <b>original, critical and proactive</b>. I enjoy <b>teamwork</b>. I speak Catalan, Spanish, and English. I am fluent in spreadsheets and know how to use marketing (mailing, programmatic, monetization, etc.) and internal management tools.
+In recent years, I’ve strengthened my technical profile as a **full-stack developer**, working with TypeScript and the MERN stack, applying testing, accessibility (a11y), CI/CD and Agile methodologies. This combination of experiences has allowed me to **bring together creativity, structure and technology** to create solid, results-oriented digital solutions.
 
-🤓 Also: I have worked in <b>online marketing for twelve years</b>. I've been a manager, promoter, and producer in the <b>music industry</b>. I've coordinated volunteer teams at a film festival. I’ve <b>worked voluntarily in associations</b> (what is being in an association, if not volunteering?). I've even been a DJ and a graphic designer.
-
-✅ To sum up: a <b>full-stack developer with experience in digital marketing</b> and a desire to make things that work (and people like).
+I’m passionate about building useful and sustainable products, optimizing processes and facilitating communication between technical and business teams. I identify with **environments where technology, creativity and strategy converge**, and where teamwork, quality and purpose drive the final outcome.
